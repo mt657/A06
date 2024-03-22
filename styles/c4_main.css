@@ -4,9 +4,17 @@ body {
     font-size: 100%;
 }
 
+a:focus, a:hover {
+	font-style: italic;
+}
+
 /* the styles for the header */
 header img {
 	float: left;
+}
+.shadow {
+	text-shadow: 2px 2px 2px;
+	color: #800000;
 }
 
 /* the styles for the main content */
@@ -28,3 +36,6 @@ main h3 {
 }
 
 /* the styles for the footer */
+footer p {
+	text-align: center;
+}
