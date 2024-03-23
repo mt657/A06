@@ -34,6 +34,10 @@ main h3 {
 	font-style: italic;
 	text-indent: 30px;
 }
+main blockquote {
+	padding: 0 2em;
+	font-style: italic;
+}
 
 /* the styles for the footer */
 footer p {
